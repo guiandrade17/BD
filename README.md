@@ -1,4 +1,4 @@
-# Banco de Dados – CEUB
+# BD – Banco de Dados
 
 Repositório das atividades da disciplina de Banco de Dados.
 
